@@ -1,4 +1,4 @@
-This contains the set of instructions required to build and run the address book application.
+This contains the set of instructions required to build and run the address book application with Grails.
 
 Contents :
 ==========
